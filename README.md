@@ -29,4 +29,4 @@ To design an interactive Power BI dashboard that analyzes Amazon sales and revie
 - Designed interactive visuals including monthly/weekly trends, category heat maps, and top product charts.
 - Optimized performance with a star schema and slicers, enabling smooth filtering across large datasets.
 
-
+## Dashboard 
