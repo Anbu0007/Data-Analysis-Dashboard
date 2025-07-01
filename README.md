@@ -30,3 +30,5 @@ To design an interactive Power BI dashboard that analyzes Amazon sales and revie
 - Optimized performance with a star schema and slicers, enabling smooth filtering across large datasets.
 
 ## Dashboard 
+![Screenshot 2025-07-01 160138](https://github.com/user-attachments/assets/3b87d80b-938e-466f-ba40-29eadbd550f2)
+
