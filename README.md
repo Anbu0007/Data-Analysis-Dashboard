@@ -20,7 +20,7 @@ To design an interactive Power BI dashboard that analyzes Amazon sales and revie
 - Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products based on year-to-date sales to focus on key revenue generators.
 - Top 5 Products by YTD Reviews (Bar Chart): Identify the top-rated products by year-to-date reviews to understand customer preferences.
 
-- Dashboard Interaction <a href="https://github.com/Anbu0007/Data-Analysis-Dashboard/blob/main/IMG_20250610_151104.jpg">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Anbu0007/Data-Analysis-Dashboard/blob/main/IMG-20250701-WA0014.jpg">View Dashboard</a>
 
 ## Process
 - Imported and cleaned 89K+ rows of Amazon sales data in Power BI, ensuring data consistency and structure.
