@@ -32,3 +32,11 @@ To design an interactive Power BI dashboard that analyzes Amazon sales and revie
 ## Dashboard 
 ![Screenshot 2025-07-01 160138](https://github.com/user-attachments/assets/3b87d80b-938e-466f-ba40-29eadbd550f2)
 
+## Project Insights
+- Men’s Shoes dominate sales with 43% of total YTD revenue, indicating strong demand.
+- Sales peaks in Q4 (especially in December), suggesting the importance of seasonal promotions.
+- Customer reviews (19.42M) show strong engagement, especially for storage devices like SanDisk, highlighting areas of high customer interest.
+- A steady increase in weekly sales toward the end of the year implies opportunity for inventory planning ahead of festive seasons.
+
+## Conclusion
+This project successfully converted raw Amazon data into a dynamic Power BI dashboard that enables real-time tracking of sales and customer sentiment. By identifying top-performing categories and products, the dashboard supports strategic business decisions in marketing, inventory, and pricing. With clear visualizations and KPI monitoring, the solution enhances business visibility and enables data-backed growth strategies.
